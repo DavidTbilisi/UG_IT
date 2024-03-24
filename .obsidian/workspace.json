@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 421.5
   },
   "right": {
     "id": "1849b518c6da3ada",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylabus/კიბერ უსაფრთხოების შესავალი.md"
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md"
               }
             }
           }
@@ -149,10 +148,18 @@
   },
   "active": "68578e0c7beac97c",
   "lastOpenFiles": [
+    "World History/images",
+    "World History",
+    "World History/Egypt.md",
+    "World History/Copper age.md",
+    "World History/Bronze age.md",
+    "World History/Stone Age.md",
+    "World History/images/Egypt_Gods.png",
+    "World History/images/timeline.png",
+    "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
     "Sylabus/000 - Dashboard.md",
     "Sylabus/კომპიუტერის არქიტექტურა.md",
     "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
-    "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
     "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
     "Sylabus/დაპროგრამების საფუძვლები  (C++).md",
     "Sylabus/ობიექტზე ორიენტირებული დაპროგრამება C++.md",
@@ -170,11 +177,6 @@
     "Sylabus/შეღწევადობის ტესტირება.md",
     "Sylabus/კიბერუსაფრთხოების ეკოსისტემა.md",
     "Sylabus/ოპერაციული სისტემა Linux-ის მართვა.md",
-    "Sylabus/Amazon_ის ღრუბლოვანი გადაწყვეტილების AWS-ის უსაფრთხოების ტექნოლოგიები.md",
-    "Sylabus/მონაცემთა ბაზების მართვის სისტემები (MS SQL).md",
-    "Sylabus/ჰაკინგი და ციფრული მტკიცებულებები.md",
-    "Sylabus/მავნე კოდის ანალიზი.md",
-    "Sylabus/ვებ პროგრამირება (PHP, MySQL).md",
     "Sylabus",
     "Mathematics/000 Resources",
     "Mathematics/003 Algebra",
