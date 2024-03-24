@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
+                "file": "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
+                "file": "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
+                "file": "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md"
+                "file": "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md"
               }
             }
           }
@@ -146,21 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68578e0c7beac97c",
+  "active": "146c1f58185b7f35",
   "lastOpenFiles": [
+    "Business/images/Economic Spectrum.png",
+    "Business/images",
+    "Business",
+    "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
+    "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
+    "Sylabus/მავნე კოდის ანალიზი.md",
+    "World History/images/timeline.png",
+    "World History/images/Egypt_Gods.png",
     "World History/images",
-    "World History",
     "World History/Egypt.md",
+    "World History/Stone Age.md",
     "World History/Copper age.md",
     "World History/Bronze age.md",
-    "World History/Stone Age.md",
-    "World History/images/Egypt_Gods.png",
-    "World History/images/timeline.png",
-    "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
+    "World History",
     "Sylabus/000 - Dashboard.md",
     "Sylabus/კომპიუტერის არქიტექტურა.md",
     "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
-    "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
     "Sylabus/დაპროგრამების საფუძვლები  (C++).md",
     "Sylabus/ობიექტზე ორიენტირებული დაპროგრამება C++.md",
     "Sylabus/დაპროგრამების ენა Python.md",
@@ -176,7 +180,6 @@
     "Sylabus/კომპიუტერის სტრუქტურული ორგანიზაცია.md",
     "Sylabus/შეღწევადობის ტესტირება.md",
     "Sylabus/კიბერუსაფრთხოების ეკოსისტემა.md",
-    "Sylabus/ოპერაციული სისტემა Linux-ის მართვა.md",
     "Sylabus",
     "Mathematics/000 Resources",
     "Mathematics/003 Algebra",
