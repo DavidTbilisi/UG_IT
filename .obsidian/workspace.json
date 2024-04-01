@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47d5bc2d7a7ccd82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
+                "file": "Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
+                "file": "Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md"
+                "file": "Computer Architecture.md"
               }
             }
           }
@@ -145,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "146c1f58185b7f35",
+  "active": "47d5bc2d7a7ccd82",
   "lastOpenFiles": [
-    "World History/Stone Age.md",
     "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
+    "Computer Architecture.md",
+    "World History/Stone Age.md",
     "Greek Colonization.png",
     "World History/Bronze age.md",
     "World History/Egypt.md",
