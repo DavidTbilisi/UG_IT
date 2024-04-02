@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47d5bc2d7a7ccd82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture.md",
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture.md",
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture.md"
+                "file": "Sylabus/შესავალი მსოფლიო ისტორიაში.md"
               }
             }
           }
@@ -146,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,25 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d5bc2d7a7ccd82",
+  "active": "146c1f58185b7f35",
   "lastOpenFiles": [
-    "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
-    "Computer Architecture.md",
-    "World History/Stone Age.md",
-    "Greek Colonization.png",
-    "World History/Bronze age.md",
-    "World History/Egypt.md",
-    "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
     "Sylabus/ეკონომიკისა და ბიზნესის საფუძვლები.md",
+    "Greek Colonization.png",
+    "Computer Architecture.md",
     "Equilibrium price.png",
+    "Sylabus/შესავალი მსოფლიო ისტორიაში.md",
     "Business/images/Economic Spectrum.png",
     "Business/images",
     "Business",
+    "Sylabus/კიბერ უსაფრთხოების შესავალი.md",
     "Sylabus/მავნე კოდის ანალიზი.md",
     "World History/images/timeline.png",
     "World History/images/Egypt_Gods.png",
     "World History/images",
+    "World History/Egypt.md",
+    "World History/Stone Age.md",
     "World History/Copper age.md",
+    "World History/Bronze age.md",
     "World History",
     "Sylabus/000 - Dashboard.md",
     "Sylabus/კომპიუტერის არქიტექტურა.md",
@@ -194,7 +182,6 @@
     "Sylabus/Amazon - ის ღრუბლოვანი გადაწყვეტილების AWS-ის არქიტექტურა.md",
     "Sylabus/კომპიუტერის სტრუქტურული ორგანიზაცია.md",
     "Sylabus/შეღწევადობის ტესტირება.md",
-    "Sylabus/კიბერუსაფრთხოების ეკოსისტემა.md",
     "Sylabus",
     "Mathematics/000 Resources",
     "Mathematics/003 Algebra",
