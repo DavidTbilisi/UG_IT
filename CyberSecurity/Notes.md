@@ -22,12 +22,20 @@
 - Confidentiality
 - Integrity
 - Availability 
+
 (Secret | Truth | Available)
 
-### AAA
+## AAA Services
+- Identification
 - Authentification (Provide identity)
 - Authorization (Give permission)
+- Audit
 - Accounting (Monitor)
+
+### Authentication factors
+- Smth you know
+- Smth you have
+- Smth you are
 ## Cryptography
 ### Symmetric
 ### Asymmetric
@@ -42,18 +50,39 @@ MAC DAC RBAC - Mandatory Discretionary Role Based
 ### Non-Discretionary
 
 ## Risk Assassment
-AV (Asset Value) - Provided from organisation
-EF (Exposure Factor) - Provided from organisation
-SLE (Single Loss Expectancy) = AV * EF
-ARO (Annual Rate Expectancy) - Provided from organisation
+AV (Asset Value) - Provided by organisation <br>
+EF (Exposure Factor) - Provided by organisation <br>
+SLE (Single Loss Expectancy) = $AV * EF$ <br>
+ARO (Annual Rate Expectancy) - Provided by organisation  <br> 
 ALE (Annual Loss Expectancy) 
 
 
 Example SLE: 
 AV = 100$
 EF = 50%
-SLE = 100$ * 50% = 100 * 0.5 = 50$
+$SLE = 100\$ * 50% = 100 * 0.5 = 50\$$
 
 
 ### Safeguards
 
+## Documentation
+
+
+PCI DSS – Credit card info <br>
+HIPPA – Healthcare and hospitals <br>
+GDPR –EU info privacy <br>
+
+
+## Main Principles (philosophies) of security
+1. Principle of least privilledge
+2. Zero Trust
+3. Secure defaults
+4. Privacy by desige
+5. Separation of duties
+
+## Security Audits
+- SOC 1
+- SOC 2
+- SOC 3
+- Type 1
+- Type 2
